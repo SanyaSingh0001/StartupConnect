@@ -6,6 +6,8 @@
 
 ## 🌐 Website Pages
 
+**** NOTE: OUR WEBSITE STARTS WITH loginpage.html page (open this page and then you can proceed).
+
 - 🏠 **Home Page**: Welcomes users and highlights the platform’s mission and recent success stories.
 - ℹ️ **About Page**: Explains what StartupConnect is, its vision, and how it works.
 - 🔐 **Login Page**: Allows users to log in or register securely.
